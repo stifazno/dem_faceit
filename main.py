@@ -8,6 +8,8 @@ HTML_PAGE = """
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1110433861512295"
+     crossorigin="anonymous"></script>
 <meta charset="UTF-8">
 <title>Voice Mask Calculator (15 players)</title>
 
